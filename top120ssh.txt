@@ -1,5 +1,6 @@
 root
 toor
+n1nja
 raspberry
 test
 uploader
